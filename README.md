@@ -5,6 +5,8 @@ For MOJ Training UC2 - Appeal App R1
 
 #### AWS Cloud Link :- [http://157.175.3.215:9080/prweb](http://157.175.3.215:9080/prweb "access our innovation lab in the cloud")
 
+* **For MOJ-Training-UC1-ESuite-App-build click [here](https://github.com/eai-systems/MOJ-Training-UC1-ESuite-App-build "Click here to go")**
+
 # Topics
 
 * **[Debugging in Pega](https://1drv.ms/p/s!AltO6Pkun9hUsUlWCKqRrh95dKOf?e=EvEGXx "Click here to view")**
