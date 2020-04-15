@@ -7,7 +7,7 @@ For MOJ Training UC2 - Appeal App R1
 
 # Topics
 
-[Debugging in Pega](https://1drv.ms/p/s!AltO6Pkun9hUsUlWCKqRrh95dKOf?e=EvEGXx "Click here to view")
+* **[Debugging in Pega](https://1drv.ms/p/s!AltO6Pkun9hUsUlWCKqRrh95dKOf?e=EvEGXx "Click here to view")**
 
 [Developer Guide for Exposing APIs](https://1drv.ms/w/s!AltO6Pkun9hUsUh02RcZ45w4cSQ1?e=GPd7YM "Click here to view")
 
