@@ -14,7 +14,7 @@ For MOJ Training UC2 - Appeal App R1
 [Exposing APIs](https://1drv.ms/p/s!AltO6Pkun9hUsUpEcvHYH_wm2FTA?e=bvvcrS "Click here to view")
 
 # Download all files from here
-  [Location]( "Click here to go")
+  [Location](https://github.com/eai-systems/MOJ-Training-UC2-Appeal-App-R1/tree/master/Files/Topics "Click here to go")
 
 # Download Webex Recordings from here
    [Session 1 : 14th April 2020]( "Click here to go")
