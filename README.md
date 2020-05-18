@@ -31,15 +31,15 @@ For MOJ Training UC2 - Appeal App R1
  
  * **[Session 6: 30th April 2020](https://1drv.ms/u/s!AvVEPrDDwal9i_EEkRUwVhMejmYzQw?e=vXsQC8 "Click here to go")**
 
- * **[Session 7: 5th May 2020](https://meetings.webex.com/collabs/url/sYmHQsasFKLrrKWPkqpQwRMGwq7-l0HQHtvaIhRPuoS00000 "Click here to go")**
+ * **[Session 7: 5th May 2020](https://1drv.ms/u/s!AvVEPrDDwal9jIYZtT3GF6K82YPU4w?e=aGB6ve "Click here to go")**
  
- * **[Session 8: 7th May 2020](https://meetings.webex.com/collabs/url/yR1bIGv4HN6VdMLswPAprtxaU5qSXyOcVT-20U836c000000 "Click here to go")**
+ * **[Session 8: 7th May 2020](https://1drv.ms/u/s!AvVEPrDDwal9jIYYM9BdJD461C3p1g?e=iaxdU4 "Click here to go")**
 
- * **[Session 9: 12th May 2020](https://meetings.webex.com/collabs/url/YXKqEO_0u3DbrGhn2NI4ZiLHH2tCaP2hwcpPJSZ7iJa00000 "Click here to go")**
+ * **[Session 9: 12th May 2020](https://1drv.ms/u/s!AvVEPrDDwal9jIYX6kFCzO09I8jTjw?e=aezjmJ "Click here to go")**
 
- * **[Session 10: 14th May 2020](https://meetings.webex.com/collabs/url/4W3zh973S2jUZ6kauHMP8Hzp7Olq70U3jlP584ldGeO00000 "Click here to go")**
+ * **[Session 10: 14th May 2020](https://1drv.ms/u/s!AvVEPrDDwal9jIVWYr_KQtCsmnujBA?e=Fy6BMu "Click here to go")**
 
- * **[Session 11: 17th May 2020](https://meetings.webex.com/collabs/url/DfpBa_PD--Fau_tf2PiyXsLpFJt9PqxQdN8d_umE7lq00000 "Click here to go")**
+ * **[Session 11: 17th May 2020](https://1drv.ms/u/s!AvVEPrDDwal9jIZAWaVXZLT6sXOtdQ?e=XlKbuH "Click here to go")**
 
  
  
