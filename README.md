@@ -41,5 +41,6 @@ For MOJ Training UC2 - Appeal App R1
 
  * **[Session 11: 17th May 2020](https://1drv.ms/u/s!AvVEPrDDwal9jIZAWaVXZLT6sXOtdQ?e=XlKbuH "Click here to go")**
 
+ * **[Session 12: 19th May 2020](https://meetings.webex.com/collabs/url/QXgDAAp0fCgtT6ZRo-uSVS15uqRNljDwHgoutrDXL8800000 "Click here to go")**
  
  
